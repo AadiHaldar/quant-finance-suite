@@ -1,0 +1,46 @@
+{
+  "tickers": [
+    "AAPL",
+    "MSFT",
+    "NVDA",
+    "JPM",
+    "BAC"
+  ],
+  "max_sharpe_weights": {
+    "AAPL": 0.0,
+    "MSFT": 0.0,
+    "NVDA": 0.4819,
+    "JPM": 0.5181,
+    "BAC": 0.0
+  },
+  "min_vol_weights": {
+    "AAPL": 0.2122,
+    "MSFT": 0.2644,
+    "NVDA": 0.0,
+    "JPM": 0.415,
+    "BAC": 0.1084
+  },
+  "metrics": {
+    "initial_capital": 100000.0,
+    "final_capital": 471734.27,
+    "total_return": 3.7173,
+    "cagr": 0.3979,
+    "annualized_volatility": 0.3182,
+    "sharpe_ratio": 1.0733,
+    "sortino_ratio": 1.641,
+    "calmar_ratio": 0.8185,
+    "max_drawdown": -0.4862,
+    "max_drawdown_duration_days": 343,
+    "var_95": -0.0294,
+    "cvar_95": -0.0416,
+    "var_99": -0.0491,
+    "alpha": 0.2125,
+    "beta": 1.4754,
+    "r_squared": 0.6545,
+    "tracking_error": 0.2048,
+    "information_ratio": 1.2391,
+    "win_rate": 0.5381,
+    "profit_factor": 1.2295
+  },
+  "generated_at": "2026-08-30T19:11:35.035961"
+}

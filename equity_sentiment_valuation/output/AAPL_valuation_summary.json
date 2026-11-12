@@ -1,0 +1,28 @@
+{
+  "ticker": "AAPL",
+  "generated_at": "2026-08-30T13:45:22.935334",
+  "sentiment": {
+    "label": "Positive",
+    "compound_score": 0.8499,
+    "confidence": 0.8661,
+    "positive_prob": 0.8661,
+    "negative_prob": 0.0161,
+    "neutral_prob": 0.1178
+  },
+  "scenarios": {
+    "current_market_price": 225.0,
+    "base_dcf_price": 93.47,
+    "sentiment_adjusted_price": 115.13,
+    "bull_case_price": 112.71,
+    "bear_case_price": 77.53,
+    "sentiment_delta": 21.66
+  },
+  "base_dcf_details": {
+    "wacc": 0.1034,
+    "enterprise_value": 1470124.16,
+    "equity_value": 1430124.16,
+    "margin_of_safety": -0.5846,
+    "recommendation": "SELL"
+  },
+  "executive_summary": "Fundamental analysis for AAPL yields a Base DCF target of $93.47 (WACC: 10.34%). NLP sentiment analysis detects POSITIVE tone (Score: +0.85, Conf: 86.6%). Incorporating sentiment-driven growth adjustments yields an intrinsic price target of $115.13 (a +21.66 per share sentiment impact), representing a Margin of Safety of -48.8% relative to current market price ($225.00). Recommendation: SELL."
+}

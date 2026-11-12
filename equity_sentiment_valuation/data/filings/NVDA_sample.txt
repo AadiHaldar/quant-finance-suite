@@ -1,0 +1,8 @@
+ITEM 1. Business
+NVIDIA Corporation pioneered GPU-accelerated computing to solve complex computational problems. The Company has evolved from PC graphics to leading the generative AI computing revolution with its full-stack accelerated computing platforms, Tensor Core GPUs, NVLink interconnects, and CUDA software architecture.
+
+ITEM 1A. Risk Factors
+The Company faces risks related to international trade restrictions, export controls on advanced AI compute clusters to key overseas markets, and severe supply chain constraints at leading-edge foundry partners. Rapid technological evolution could introduce competitor architectures, while customer concentration in hyperscale cloud providers presents potential revenue volatility if data center capital expenditures slow down.
+
+ITEM 7. Management's Discussion and Analysis of Financial Condition and Results of Operations
+Compute & Networking revenue accelerated dramatically in fiscal 2025, driven by unprecedented demand for the Blackwell and Hopper GPU architectures across cloud hyperscalers and enterprise AI developers. Data Center revenue reached record highs, with gross margins expanding above 75%. Operating cash flow generation reached extraordinary levels, enabling massive investments in R&D and aggressive capital returns to shareholders through dividends and buybacks.
